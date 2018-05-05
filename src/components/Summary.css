@@ -1,0 +1,24 @@
+
+text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+  }
+  
+
+p.neutral { color:#000000 }  
+p.positive { color:#3D9970 }  
+p.very-positive { color:#2ECC40 }  
+p.negative { color:#85144b }  
+p.very-negative { color:#ff0000 }  
+
+span.black { color:rgb(0, 0, 0)  }  
+  
+.Summary-display {
+    display: block;
+    text-align: left;
+    background-color: rgb(212, 212, 212);
+    padding: 10px;
+    margin: auto;
+    width: 90%;
+    height: 500;   
+}

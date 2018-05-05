@@ -1,0 +1,25 @@
+{
+  "name": "react-d3-twitter-streaming-sentiment-plot",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "Sentimental": "^1.0.1",
+    "axios": "^0.18.0",
+    "cors": "^2.8.4",
+    "d3": "^5.1.0",
+    "express": "^4.16.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "sqlite": "^2.9.1",
+    "winston": "^2.4.1",
+    "x-ray": "^2.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:8080/"
+}

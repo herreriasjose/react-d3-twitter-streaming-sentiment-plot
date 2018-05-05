@@ -1,0 +1,59 @@
+.colmask{
+	position: relative;
+	overflow: hidden;
+	margin: 0px auto;
+	width: 84%;
+	background-color: #ffffff
+ }
+ .header{
+	float: left;
+	width: 100%;
+	background-color: #f4f4f4
+ }
+ .colmid{
+	position: relative;
+	width: 100%;
+	right: 39%;
+	background-color: #ffffff
+ }
+ .colleft{
+	position: relative;
+	width: 100%;
+	right: 30%;
+	background-color: #ffffff
+ }
+ .col1{
+	position: relative;
+	overflow: hidden;
+	float: left;
+	width: 28.8%;
+	left: 100.6%;
+	background-color: #ffffff
+ }
+ .col2{
+	position: relative;
+	overflow: hidden;
+	float: left;
+	width: 29.8%;
+	left: 40.8%;
+	background-color: #ffffff
+ }
+ .col3{
+	position: relative;
+	overflow: hidden;
+	float: left;
+	width: 37.8%;
+	left: 72%;
+	background-color: #ffffff
+ }
+ .footer{
+	float: left;
+	width: 100%;
+	background-color: #b4caf7
+ }
+ body {
+	padding: 0px;
+	margin: 0px;
+	font-size: 90%;
+	background-color: #ffffff
+ }

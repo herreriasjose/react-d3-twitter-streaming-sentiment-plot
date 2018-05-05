@@ -1,0 +1,11 @@
+
+.Charts-display {
+  display: block;
+  text-align: center;
+  background-color: rgb(212, 212, 212);
+  padding: 10px;
+  margin: auto;
+  width: 90%;
+  height: 500;
+  
+    }
