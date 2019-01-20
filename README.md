@@ -9,7 +9,7 @@ DESCRIPTION
 
 This application creates a summary showing streaming activity on Twitter from certain places in real time. For this I am using React and D3 in the frontend and Nodejs + Express in the backend. 
 
-<p align="center"><img src="img/animation_large.gif" width="600px"></p>
+<p align="center"><img src="img/animation.gif" width="550px"></p>
       
 Twitter provides a streaming API, which provides a subset of real-time tweets. For this purpose, it establishes a permanent connection with the Twitter servers and receives a continuous flow of tweets in json format. Through API streaming you can use hashtags to download more than 500 GB of data from more than 200,000 tweets of any event that is taking place in real time.
       
