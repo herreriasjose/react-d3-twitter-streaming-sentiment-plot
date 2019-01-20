@@ -6,6 +6,7 @@ react-d3-twitter-streaming-sentiment-plot
 DESCRIPTION
 -----------
 
+You can check it here: <https://t.co/YtWsRctbYY>
 
 This application creates a summary showing streaming activity on Twitter from certain places in real time. For this I am using React and D3 in the frontend and Nodejs + Express in the backend. 
 
